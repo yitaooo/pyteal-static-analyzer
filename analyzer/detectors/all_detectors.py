@@ -1,0 +1,7 @@
+
+
+from detectors.rekey_to import UncheckedRekeyto
+from detectors.can_close_account import CanCloseAccount
+from detectors.can_close_asset import CanCloseAsset
+from detectors.unchecked_deletable_app import UncheckedDeletableApplication
+from detectors.unchecked_updatable_app import UncheckedUpdatableApplication
